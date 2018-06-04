@@ -1,0 +1,10 @@
+{
+  "name": "reactSpringTutorial",
+  "version": "1.0.0",
+  "description": "Tutoriel Spring + ReactJS",
+  "main": "index.js",
+  "repository": "https://github.com/ImKrach/reactSpringTutorial.git",
+  "author": "Rachid Debu",
+  "license": "Apache-2.0",
+  "private": true
+}
